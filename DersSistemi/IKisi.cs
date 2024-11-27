@@ -1,0 +1,4 @@
+interface IKisi
+{
+    void BilgiGoster();
+}
